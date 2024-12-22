@@ -1,9 +1,7 @@
 """
-CPSC 5520, Seattle University
-This is free and unencumbered software released into the public domain.
-Collaborated with Pabi
-:Authors: Nicholas Jones
-:Version: fq19-01
+Seattle University, CPSC 5520 - Distributed Systems
+Authors: Aarti Dashore
+Version: V.0.0.1
 """
 
 import sys
